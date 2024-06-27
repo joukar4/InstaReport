@@ -37,7 +37,7 @@ No need to install git in linux or termux
 * `pkg install python`
 * `pkg install python3`
 * `pkg install git`
-* `git clone https://github.com/Crevils/InstaReport`
+* `git clone https://github.com/joukar4/InstaReport`
 * `cd instareport`
 * `pip install -r requirements.txt`
 * `chmod +x *`
@@ -46,7 +46,7 @@ No need to install git in linux or termux
 ### INSTALLATION [Windows]
 [Download python](https://www.python.org/downloads/) and [git](https://git-scm.com/downloads)
 
-* `git clone https://github.com/Crevils/InstaReport`
+* `git clone https://github.com/joukar4/InstaReport`
 * `cd instareport`
 * `pip install -r requirements.txt`
 * `Create a file acc.txt and run python main.py` or `python main.py -u <TARGET_USERNAME> -f <INSTAGRAM_ACOUNTS_FILE.txt>`
@@ -58,7 +58,7 @@ No need to install git in linux or termux
 * `sudo apt install python`
 * `sudo apt install python3`
 * `sudo apt install git`
-* `git clone https://github.com/Crevils/InstaReport`
+* `git clone https://github.com/joukar4/InstaReport`
 * `cd instareport`
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
